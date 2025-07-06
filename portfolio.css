@@ -1,0 +1,12 @@
+:root {
+     --foter-bg-color:  #2f303a;  
+     --footer-text-color:#ffffff;
+     --color-blue: #2196f3;
+}
+footer {
+    background-color: var(--foter-bg-color);
+    color: var(--footer-text-color);
+}
+span {
+    color: var(--color-blue);
+}
